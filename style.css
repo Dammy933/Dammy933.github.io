@@ -1,6 +1,6 @@
  .nav{
   height: 50px;
-  background: red;
+  background: blue;
   }
   
   .nav div{
@@ -26,7 +26,7 @@
  }
  
  .home{
- background: url("/images/0.jpg");
+ background: url("/b.jpg");
  background-size: cover;
  height: 100vh;
  }
@@ -40,7 +40,7 @@
  }
       
  .aome{
- background: url("/images/0.jpg");
+ background: url("/b.jpg");
  background-size: cover;
  height: 100vh;
  }
